@@ -51,17 +51,18 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- So learned about the image reizing. Didn't really know how before doing it in this project but know I know by placing height:auto; then placing a max-width so it can be responsive with a 100% width so it can be able to take the full width of the container.
+- setting a background image through the url value forgot about that but remember through this project
+- organizing my HTML through sections with the header and footer outside of the main content. That really matter and made everything very easy to styling the text in each individual section container.
+- Starting out with mobile then as it expands higher I used a media query and eventually get the proper desktop layout. 
+
 
 To see how you can add code snippets, see below:
 
