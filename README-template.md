@@ -61,7 +61,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - So learned about the image reizing. Didn't really know how before doing it in this project but know I know by placing height:auto; then placing a max-width so it can be responsive with a 100% width so it can be able to take the full width of the container.
 - setting a background image through the url value forgot about that but remember through this project
 - organizing my HTML through sections with the header and footer outside of the main content. That really matter and made everything very easy to styling the text in each individual section container.
-- Starting out with mobile then as it expands higher I used a media query and eventually get the proper desktop layout. 
+- Starting out with mobile then as it expands higher I used a media query and eventually get the proper desktop layout.
+- Responsiveness with the features description that was what I was having a hard time with the Ul so they can be lined up straighted. Learned that the height of the icons matter, as well as the amount of width they take. 
 
 
 To see how you can add code snippets, see below:
