@@ -43,7 +43,50 @@ Started with mobile layout as I found that to be the easiest while still refernc
 - Starting out with mobile then as it expands higher I used a media query and eventually get the proper desktop layout.
 - Responsiveness with the features description that was what I was having a hard time with the Ul so they can be lined up straighted. Learned that the height of the icons matter, as well as the amount of width they take.
 - To definitely be more organized less about the user but for myself as it was getting a little messy and was getting confused in my own code. Was getting tricky and did make a mistake that did costed me some time to fix but eventually did fix it but was very frustrating.
-- The icons to have a set height so they can be flushed and aligend. Utilizing gap, as well as using display: grid for the contact pages. 
+- The icons to have a set height so they can be flushed and aligend. Utilizing gap, as well as using display: grid for the contact pages.
+
+-being able to be consistent with the image widths and height so I can avoid cumlative layout shifts(CLS)
+-Icons and backgrounds no alt text as they are more for decorative purposes.
+- Using the BEM stying and that is what im going to be doing moving forward to having everything with the BEM naming approach as it is more organized and effective.
+- the type attribute for the button.
+- Doing self hoested fonts as they provide better user security and utilzing the font-face rule. There is also a way where without the delay can use the pre-load value with the rel property. <link rel="preload"> Its the to not have that delay and will definitely utilize as is annoying to have that quick flash of the default browser font then eventually the set font family that im using.
+
+@font-face {
+  font-display: swap;
+  font-family: "Bai Jamjuree";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/bai-jamjuree-v12-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Bai Jamjuree";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/bai-jamjuree-v12-latin-600.woff2") format("woff2");
+}
+<link
+  rel="preload"
+  href="../fonts/bai-jamjuree-v12-latin-regular.woff2"
+  as="font"
+  type="font/woff2"
+  crossorigin
+/>
+
+<link
+  rel="preload"
+  href="../fonts/bai-jamjuree-v12-latin-600.woff2"
+  as="font"
+  type="font/woff2"
+  crossorigin
+/>
+
+
+
+- Use rem or em for max-width and gap instead of using px just for better consistently.
+- Using the clamp property to reduce the use of media querys and will definitely do more research on that as does get a little complicated using media-querys.
+- Using pixel-perfect to get the right sizing and features of the webpage.[Wasn't really a big deal but now I can do it exactly how it looks like]
 
 
 
