@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/xscapefromme/clipboard-landing-page.git))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://clipboard-landing-page-gules-eight.vercel.app/))
+- Solution URL:[github](https://github.com/xscapefromme/clipboard-landing-page.git])
+- Live Site URL: [Live Site](https://clipboard-landing-page-gules-eight.vercel.app/)
 
 ## My process
 Started with mobile layout as I found that to be the easiest while still referncing how the desktop would look like and after I finsihed mobile layout added media querys to be in a proper responsivness form and thats how I did my project.
