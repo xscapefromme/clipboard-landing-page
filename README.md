@@ -96,6 +96,7 @@ Started with mobile layout as I found that to be the easiest while still refernc
 -Iam going to continue to get better with mobile first layout, and overall responsivness. Little details still missing and something that I can put more effort but the overall layout and overall project is already completeed and just wanted to move without being a perfionalist. 
 - Going to also start to implement some Java Script while still practicing HTML and CSS and looking at doing that for the remainder to be able to combine all 3 into a well made project and eventually one of my own.
 - To also grasp the deeper modern concepts of CSS being the min max, clamp etc in upcoming projects but main part is having it responsivness.
+- Begin using JS and its implications
 
 
 
